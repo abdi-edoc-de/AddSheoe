@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;800&display=swap');
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+#footer {
+    padding: 90px;
+    background-color: #0e2c5c;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+#img{
+    border-radius: 80%;
+}
+#na{
+    font-size: 1.3em;
+    color: aliceblue;
+}
+#ca{
+   padding-left: 5%;
+   padding-right: 5%;
+}
